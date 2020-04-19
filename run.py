@@ -43,7 +43,8 @@ def choose_level():
         clear_display()
         print("Incorrect informed level!")
         level = int(input(
-            "What the level wanted? [Input 1 to Easy Made; Input 2 to Hard Made; Input 3 to Pro Made; 4 to Exit Execution]: "))
+            "What the level wanted? [Input 1 to Easy Made; Input 2 to Hard Made; Input 3 to Pro Made; 4 to Exit "
+            "Execution]: "))
         if level == "4":
             sys.exit()
     if level == "1":
