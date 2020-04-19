@@ -9,9 +9,6 @@
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/PedroLucasOM/GameHuntTheWumpus" />
-  </a>
   <a href="https://twitter.com/PedroLucasOM" target="_blank">
     <img alt="Twitter: PedroLucasOM" src="https://img.shields.io/twitter/follow/PedroLucasOM.svg?style=social" />
   </a>
@@ -34,9 +31,27 @@ pip3 install virtualenv
 
 ## Usage
 
+#### Creating the virtual environment
+
 ```sh
 virtualenv wumpus
 ```
+
+#### Activating the virtual environment
+
+###### For Linux / Mac distributions
+
+```sh
+source wumpus/bin/activate
+```
+
+###### For Windows
+
+```sh
+wumpus\Scripts\activate.bat
+```
+
+#### Installing the requirements
 
 ```sh
 pip3 install -r requirements.txt
@@ -67,4 +82,3 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [Pedro Lucas](https://github.com/PedroLucasOM).<br />
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
