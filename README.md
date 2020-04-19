@@ -1,13 +1,13 @@
-<h1 align="center">Welcome to GameHuntTheWumpus 👋</h1>
+<h1 align="center">Welcome to Game Hunt The Wumpus 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
-  <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
+  <img src="https://img.shields.io/badge/python-3.8.2-blue.svg" />
+  <img src="https://img.shields.io/badge/pygame-1.9.6-blue.svg" />
   <a href="https://github.com/PedroLucasOM/GameHuntTheWumpus#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-green.svg" />
   </a>
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg" />
   </a>
   <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/PedroLucasOM/GameHuntTheWumpus" />
@@ -23,25 +23,29 @@
 
 ## Prerequisites
 
-- npm >=5.5.0
-- node >=9.3.0
+- python = 3.8.2
+- pygame = 1.9.6
 
 ## Install
 
 ```sh
-npm install
+pip3 install virtualenv
 ```
 
 ## Usage
 
 ```sh
-npm run start
+virtualenv wumpus
 ```
 
-## Run tests
+```sh
+pip3 install -r requirements.txt
+```
+
+## Run
 
 ```sh
-npm run test
+python3 run.py
 ```
 
 ## Author
@@ -64,6 +68,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [Pedro Lucas](https://github.com/PedroLucasOM).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
