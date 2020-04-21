@@ -14,7 +14,9 @@
   </a>
 </p>
 
-> Game for the discipline of Fundamentals of Programming of the course of Computation of the IFCE
+> Game for the discipline of Fundamentals of Programming of the course of Computation of the IFCE.
+
+> Hunt the Wumpus is a text-based adventure game. In the game, the player will have to move in a dark cave surrounded by fatal chasms following his senses until he finds and kills the terrible monster called Wumpus. The biggest challenge of this adventure is that the player will have a single bullet that will start from the player's current point until the end of the matrix where the shot was fired.
 
 ### 🏠 [Homepage](https://github.com/PedroLucasOM/GameHuntTheWumpus)
 
@@ -62,6 +64,62 @@ pip3 install -r requeriments.txt
 ```sh
 python3 run.py
 ```
+## Functionalities
+
+#### Home page
+
+<img align="center" src="https://github.com/PedroLucasOM/GameHuntTheWumpus/blob/master/images/1.png" />
+<br />
+
+#### Account creation
+
+<img align="center" src="https://github.com/PedroLucasOM/GameHuntTheWumpus/blob/master/images/2.png" />
+<br />
+
+#### Login
+
+<img align="center" src="https://github.com/PedroLucasOM/GameHuntTheWumpus/blob/master/images/3.png" />
+<br />
+
+#### Remap keys
+
+<img align="center" src="https://github.com/PedroLucasOM/GameHuntTheWumpus/blob/master/images/4.png" />
+<br />
+
+#### Difficulty level
+
+<img align="center" src="https://github.com/PedroLucasOM/GameHuntTheWumpus/blob/master/images/5.png" />
+<br />
+
+#### Mode
+
+<img align="center" src="https://github.com/PedroLucasOM/GameHuntTheWumpus/blob/master/images/6.png" />
+<br />
+
+#### Game map
+
+<img align="center" src="https://github.com/PedroLucasOM/GameHuntTheWumpus/blob/master/images/7.png" />
+<br />
+
+#### Player feeling breezes
+
+<img align="center" src="https://github.com/PedroLucasOM/GameHuntTheWumpus/blob/master/images/8.png" />
+<br />
+
+#### Player finding gold
+
+<img align="center" src="https://github.com/PedroLucasOM/GameHuntTheWumpus/blob/master/images/9.png" />
+<br />
+
+#### Player feeling the stench of the monster nearby
+
+<img align="center" src="https://github.com/PedroLucasOM/GameHuntTheWumpus/blob/master/images/10.png" />
+<br />
+
+#### Player wins
+
+<img align="center" src="https://github.com/PedroLucasOM/GameHuntTheWumpus/blob/master/images/11.png" />
+<br />
 
 ## Author
 
