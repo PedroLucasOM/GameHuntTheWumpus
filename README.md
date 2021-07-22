@@ -14,7 +14,7 @@
   </a>
 </p>
 
-> Game for the discipline of Fundamentals of Programming of the course of Computation of the IFCE.
+> :computer: Game for the discipline of Fundamentals of Programming of the course of Computation of the IFCE :mortar_board:.
 
 > Hunt the Wumpus is a text-based adventure game. In the game, the player will have to move in a dark cave surrounded by fatal chasms following his senses until he finds and kills the terrible monster called Wumpus. The biggest challenge of this adventure is that the player will have a single bullet that will start from the player's current point until the end of the matrix where the shot was fired.
 
